@@ -37,7 +37,7 @@ $$\lbrace 1\text{-}3,\; 1\text{-}4,\; 1\text{-}6,\; 2\text{-}4,\; 2\text{-}5,\; 
 
 ### Parallel Composition via the OR Graph Product
 
-The parallel test of the two inequalities is encoded by the **OR graph product** $\mathcal{G} = C_5 \vee \mathcal{G}_6$ (Eq. (6) of the paper). Two composite vertices $(v_{i_1}, v_{i_3})$ and $(v_{j_1}, v_{j_3})$ are adjacent in $\mathcal{G}$ if and only if
+The parallel test of the two inequalities is encoded by the **OR graph product** $\mathcal{G} = C_5 \vee \mathcal{G}_6$. Two composite vertices $(v_{i_1}, v_{i_3})$ and $(v_{j_1}, v_{j_3})$ are adjacent in $\mathcal{G}$ if and only if
 
 $$v_{i_1} \sim v_{j_1} \quad \text{in } C_5 \quad \mathbf{or} \quad v_{i_3} \sim v_{j_3} \quad \text{in } \mathcal{G}_6.$$
 
