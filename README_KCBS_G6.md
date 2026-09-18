@@ -60,8 +60,7 @@ $$(a,b) \;\mapsto\; v = 6(a-1)+b, \qquad a \in \lbrace 1,\ldots,5\rbrace,\; b \i
 
 so vertex $v$ corresponds to KCBS vertex $a$ and $\mathcal{G}_6$ vertex $b$.
 
-### Self-Testing Criterion (Eqs. (2)–(3) of the paper)
-
+### Self-Testing Criterion 
 The maximum quantum value $\vartheta(\mathcal{G})$ is computed via the **primal Lovász theta SDP**:
 
 $$\vartheta(\mathcal{G}) = \max \sum_{i=1}^{30} X_{ii}$$
