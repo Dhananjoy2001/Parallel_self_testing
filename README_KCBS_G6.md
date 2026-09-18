@@ -46,6 +46,7 @@ The graph $\mathcal{G} = C_5 \vee \mathcal{G}_6$ has:
 | Property | Value |
 |---|---|
 | Vertices $N$ | $5 \times 6 = 30$ |
+| Edges | $300$ |
 | Independence number $\alpha(\mathcal{G})$ | 4 |
 | Lovász theta number $\vartheta(\mathcal{G})$ | 5 |
 
