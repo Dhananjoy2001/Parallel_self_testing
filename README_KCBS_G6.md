@@ -230,28 +230,6 @@ Together with the positive examples (KCBS $\vee$ KCBS, KCBS $\vee$ Bell-CHSH, Be
 | Bell-CHSH $\vee$ Bell-CHSH | $\mathrm{Ci}_8(1,4) \vee \mathrm{Ci}_8(1,4)$ | 64 | 9 | $\approx 11.66$ | ✅ |
 | KCBS $\vee$ $\mathcal{G}_6$ | $C_5 \vee \mathcal{G}_6$ | 30 | 4 | 5 | ❌ |
 
----
-
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@article{ghosh2026parallel,
-  title  = {Robust and parallel semi-device-independent self-testing of distinct quantum systems},
-  author = {Ghosh, Dhananjoy and Bharti, Kishor and Singh, Jaskaran},
-  year   = {2026},
-  note   = {Preprint}
-}
-```
-
----
-
-## Acknowledgements
-
-D.G. acknowledges financial support from the IIT Mandi HTRA fellowship. J.S. acknowledges financial support from the IIT Mandi seed grant project No. IITM/SG/JSN/168. K.B. is supported by a Hartree fellowship from QuICS, University of Maryland.
-
----
 
 ## Contact
 
