@@ -7,7 +7,7 @@ This repository contains the MATLAB code accompanying the paper:
 > Center for Quantum Science and Technology (CQST), IIT Mandi, India  
 > Preprint: [arXiv link to be added]
 
-This code implements the SDP-based verification for the **negative example** of Appendix B.3 of the paper: a KCBS inequality composed in parallel with a six-vertex NC inequality $\beta_3$ whose exclusivity graph $\mathcal{G}_6$ exhibits a quantum violation but does **not** self-test. The composite exclusivity graph is $\mathcal{G} = C_5 \vee \mathcal{G}_6$.
+This code implements the SDP-based verification for an **intersting example**: a KCBS inequality composed in parallel with a six-vertex NC inequality $\beta_3$ whose exclusivity graph $\mathcal{G}_6$ exhibits a quantum violation but does **not** self-test. The composite exclusivity graph is $\mathcal{G} = C_5 \vee \mathcal{G}_6$.
 
 The purpose of this example is to numerically confirm the necessity of the individual self-testing condition in Theorem 1: since $\mathcal{G}_6$ does not self-test, the composite inequality also fails to self-test, even though $\vartheta(\mathcal{G}) > \alpha(\mathcal{G})$.
 
