@@ -233,27 +233,6 @@ Parallel_CHSH_self_testing_OR
 
 ---
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@article{ghosh2026parallel,
-  title  = {Robust and parallel semi-device-independent self-testing of distinct quantum systems},
-  author = {Ghosh, Dhananjoy and Bharti, Kishor and Singh, Jaskaran},
-  year   = {2026},
-  note   = {Preprint}
-}
-```
-
----
-
-## Acknowledgements
-
-D.G. acknowledges financial support from the IIT Mandi HTRA fellowship. J.S. acknowledges financial support from the IIT Mandi seed grant project No. IITM/SG/JSN/168. K.B. is supported by a Hartree fellowship from QuICS, University of Maryland.
-
----
-
 ## Contact
 
 - **Dhananjoy Ghosh** — d25062@students.iitmandi.ac.in  
