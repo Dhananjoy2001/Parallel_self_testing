@@ -1,6 +1,6 @@
 # Robust and Parallel Semi-Device-Independent Self-Testing of Distinct Quantum Systems
 
-**Authors:** Dhananjoy Ghosh, Kishor Bharti, Abhishek Singh  
+**Authors:** Dhananjoy Ghosh, Kishor Bharti, Jaskaran Singh  
 **Affiliation:** Centre for Quantum Science and Technology (CQST), IIT Mandi  
 **arXiv:** [arxiv link]  
 
@@ -124,30 +124,8 @@ Step 4  self_testing.m      →  SVD check of MZ* = 0
 
 ---
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{ghosh2025parallel,
-  title   = {Robust and Parallel Semi-Device-Independent Self-Testing of Distinct Quantum Systems},
-  author  = {Ghosh, Dhananjoy and Bharti, Kishor and Singh, Abhishek},
-  journal = {arXiv preprint},
-  year    = {2025}
-}
-```
-
----
-
-## Acknowledgements
-
-The authors gratefully acknowledge [funding sources / collaborators as appropriate].  
-MOSEK ApS is acknowledged for providing a free academic licence for the MOSEK solver.
-
----
-
 ## Contact
 
 **Dhananjoy Ghosh**  
 Centre for Quantum Science and Technology (CQST), IIT Mandi  
-✉ [jsgroupcqst@gmail.com](mailto:jsgroupcqst@gmail.com)
+✉ [d25062@students.iitmandi.ac.in](mailto:d25062@students.iitmandi.ac.in)
