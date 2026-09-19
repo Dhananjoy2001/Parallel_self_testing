@@ -78,10 +78,10 @@ The parallel self-test is robust: if the observed NC value is $\varepsilon$-clos
 
 | Scenario | Graph | Vertices | $\alpha$ | $\vartheta$ | Quantum Realisation | Self-Tests? |
 |---|---|---|---|---|---|---|
-| **KCBS ∨ KCBS** | $C_5 \vee C_5$ | 25 | 4 | 5 | Two qutrits | ✅ Yes |
-| **KCBS ∨ CHSH** | $C_5 \vee \mathrm{Ci}_8(1,4)$ | 40 | 6 | $\sqrt{5}(2+\sqrt{2})$ | Qutrit + ququart | ✅ Yes |
-| **CHSH ∨ CHSH** | $\mathrm{Ci}_8(1,4) \vee \mathrm{Ci}_8(1,4)$ | 64 | 9 | $(2+\sqrt{2})^2$ | Two ququarts | ✅ Yes |
-| **KCBS ∨ G6** | $C_5 \vee G_6$ | 30 | $4$ | $5$ | — | ❌ No (negative example) |
+| **KCBS ∨ KCBS** | $C_5 \vee C_5$ | $25$ | $4$ | $5$ | Two qutrits | ✅ Yes |
+| **KCBS ∨ CHSH** | $C_5 \vee \mathrm{Ci}_8(1,4)$ | $40$ | $6$ | $\sqrt{5}(2+\sqrt{2})$ | Qutrit + ququart | ✅ Yes |
+| **CHSH ∨ CHSH** | $\mathrm{Ci}_8(1,4) \vee \mathrm{Ci}_8(1,4)$ | $64$ | $9$ | $(2+\sqrt{2})^2$ | Two ququarts | ✅ Yes |
+| **KCBS ∨ G6** | $C_5 \vee G_6$ | $30$ | $4$ | $5$ | — | ❌ No (negative example) |
 
 The KCBS ∨ G6 case (Appendix B.3) demonstrates that the OR product of a self-testing graph ($C_5$) with a non-self-testing graph ($G_6$) does **not** yield a self-test — the SVD check shows that $MZ^* = 0$ admits non-trivial solutions.
 
