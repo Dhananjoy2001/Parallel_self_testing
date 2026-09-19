@@ -73,7 +73,7 @@ The paper introduces a framework for **parallel self-testing** of quantum system
 | **KCBS ∨ KCBS** | $C_5 \vee C_5$ | $25$ | $4$ | $5$ | Two qutrits | ✅ Yes |
 | **KCBS ∨ CHSH** | $C_5 \vee \mathrm{Ci}_8(1,4)$ | $40$ | $6$ | $\sqrt{5}(2+\sqrt{2})$ | Qutrit + ququart | ✅ Yes |
 | **CHSH ∨ CHSH** | $\mathrm{Ci}_8(1,4) \vee \mathrm{Ci}_8(1,4)$ | $64$ | $9$ | $(2+\sqrt{2})^2$ | Two ququarts | ✅ Yes |
-| **KCBS ∨ G6** | $C_5 \vee G_6$ | $30$ | $4$ | $5$ | — | ❌ No (negative example) |
+| **KCBS ∨ G6** | $C_5 \vee G_6$ | $30$ | $4$ | $5$ | — | ❌ No |
 
 The KCBS ∨ G6 case demonstrates that the OR product of a self-testing graph ($C_5$) with a non-self-testing graph ($G_6$) does **not** yield a self-test — the SVD check shows that $MZ^* = 0$ admits non-trivial solutions.
 
@@ -86,7 +86,7 @@ Each sub-folder contains a dedicated `README.md` with full details of that scena
 - 📁 [`Parallel_KCBS_KCBS/README.md`](./Parallel_KCBS_KCBS/README.md) — KCBS parallel self-test; analytic dual certificate; two-qutrit realisation
 - 📁 [`Parallel_KCBS_CHSH/README.md`](./Parallel_KCBS_CHSH/README.md) — KCBS ∨ CHSH self-test; numerical dual certificate; qutrit + ququart realisation
 - 📁 [`Parallel_CHSH_CHSH/README.md`](./Parallel_CHSH_CHSH/README.md) — CHSH parallel self-test; numerical dual certificate; two-ququart realisation
-- 📁 [`Parallel_KCBS_G6/README.md`](./Parallel_KCBS_G6/README.md) — Negative example
+- 📁 [`Parallel_KCBS_G6/README.md`](./Parallel_KCBS_G6/README.md) — Composite scenario with a non-self-testing NC inequality
 
 ---
 
