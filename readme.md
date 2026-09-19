@@ -94,7 +94,7 @@ Each sub-folder contains a dedicated `README.md` with full details of that scena
 - 📁 [`Parallel_KCBS_KCBS/README.md`](./Parallel_KCBS_KCBS/README.md) — KCBS parallel self-test; analytic dual certificate; two-qutrit realisation
 - 📁 [`Parallel_KCBS_CHSH/README.md`](./Parallel_KCBS_CHSH/README.md) — KCBS ∨ CHSH self-test; numerical dual certificate; qutrit + ququart realisation
 - 📁 [`Parallel_CHSH_CHSH/README.md`](./Parallel_CHSH_CHSH/README.md) — CHSH parallel self-test; numerical dual certificate; two-ququart realisation
-- 📁 [`Parallel_KCBS_G6/README.md`](./Parallel_KCBS_G6/README.md) — Negative example; why G6 blocks self-testing
+- 📁 [`Parallel_KCBS_G6/README.md`](./Parallel_KCBS_G6/README.md) — Negative example
 
 ---
 
