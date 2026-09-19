@@ -79,7 +79,7 @@ The parallel self-test is robust: if the observed NC value is $\varepsilon$-clos
 | Scenario | Graph | Vertices | $\alpha$ | $\vartheta$ | Quantum Realisation | Self-Tests? |
 |---|---|---|---|---|---|---|
 | **KCBS ∨ KCBS** | $C_5 \vee C_5$ | 25 | 4 | 5 | Two qutrits | ✅ Yes |
-| **KCBS ∨ CHSH** | $C_5 \vee \mathrm{Ci}_8(1,4)$ | 40 | — | — | Qutrit + ququart | ✅ Yes |
+| **KCBS ∨ CHSH** | $C_5 \vee \mathrm{Ci}_8(1,4)$ | 40 | 6 | $\sqrt{5}(2+\sqrt{2})$ | Qutrit + ququart | ✅ Yes |
 | **CHSH ∨ CHSH** | $\mathrm{Ci}_8(1,4) \vee \mathrm{Ci}_8(1,4)$ | 64 | — | — | Two ququarts | ✅ Yes |
 | **KCBS ∨ G6** | $C_5 \vee G_6$ | 30 | — | $\sqrt{5}$ | — | ❌ No (negative example) |
 
