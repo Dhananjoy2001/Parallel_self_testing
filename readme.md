@@ -14,14 +14,6 @@ This repository contains the MATLAB code accompanying the paper:
 
 The paper introduces a framework for **parallel self-testing** of quantum systems using **non-contextuality (NC) inequalities** in the Consistent Exclusivity (CSW) framework. The central idea is to test multiple quantum systems simultaneously by composing their exclusivity graphs via the **OR graph product**, and to certify the underlying quantum state and measurements from the statistics alone — in a semi-device-independent manner.
 
-### Main Results
-
-**Theorem 1 (Parallel Self-Testing).**  
-If an NC inequality $\beta \leq \alpha(G)$ self-tests individual systems $\mathcal{S}_1, \mathcal{S}_2, \ldots, \mathcal{S}_m$, then the $m$-fold OR product graph $G^{\vee m}$ yields an NC inequality that simultaneously self-tests all $m$ systems in parallel.
-
-**Theorem 2 (Robustness).**  
-The parallel self-test is robust: if the observed NC value is $\varepsilon$-close to the quantum maximum $\vartheta(G^{\vee m})$, then the realisation is $O(\sqrt{\varepsilon})$-close (in trace distance / operator norm) to the ideal tensor-product realisation.
-
 ---
 
 ## Key Concepts
