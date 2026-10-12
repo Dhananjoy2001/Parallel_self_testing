@@ -121,3 +121,17 @@ Step 4  self_testing.m      →  SVD check of MZ* = 0
 **Dhananjoy Ghosh**  
 Centre for Quantum Science and Technology (CQST), IIT Mandi  
 ✉ [d25062@students.iitmandi.ac.in](mailto:d25062@students.iitmandi.ac.in)
+
+
+## Citation
+
+If you use this code in your research, please cite the associated paper.
+
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+
